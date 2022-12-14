@@ -1,0 +1,1282 @@
+ 
+ 
+ 
+ 
+ 
+ 
+Title: Saving credentials 
+ 
+ 
+Priority: 1 
+ 
+ 
+Estimate: 
+ 
+ 
+ 
+As a donor 
+ 
+I want to save my login credentials 
+ 
+so that I don’t have to enter it every time 
+ 
+Acceptance criteria 
+ 
+Given that I’m a donor 
+ 
+When I log in into the app, I want my login credentials to be saved 
+ 
+Then then it should automatically log me into the app. 
+ 
+Title: Connecting bank account 
+ 
+ 
+Priority: 1 
+ 
+Estimate: 
+ 
+ 
+ 
+As a donor 
+ 
+I want to connect my bank account with this application 
+ 
+so that I can quickly donate money without wasting any minute 
+ 
+ 
+Acceptance criteria 
+ 
+Given I’m a donor 
+ 
+When I want to make some donations its should connect to my bank application 
+instantly 
+ 
+Then I can donate without waiting for long time 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Title: Legit information 
+ 
+ 
+Priority: 1 
+ 
+ 
+Estimate: 
+ 
+ 
+ 
+As a system administrator 
+ 
+I want to obtain legitimate donor information 
+ 
+so that I can maintain legal and lawful donor information 
+ 
+Acceptance criteria 
+ 
+Given I’m a system administrator 
+ 
+When the donor information is real, I can store the legit donor information 
+ 
+Then I can proceed the donor to next phases in the system to prevent future 
+complications 
+ 
+ 
+ 
+ 
+ 
+Title: Content update 
+ 
+ 
+Priority: 1 
+ 
+ 
+Estimate: 
+ 
+ 
+ 
+As a system administrator 
+ 
+I want to update the content 
+ 
+so that user have access to the most up to date content 
+ 
+Acceptance criteria 
+ 
+Given I’m a system administrator 
+ 
+When users use the system, they’ll be getting the most updated contents 
+ 
+Then it will be easy for them to get to know about the most recent contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Title: Resetting password 
+ 
+ 
+Priority: 1 
+ 
+ 
+Estimate: 
+ 
+  
+As a system administrator 
+ 
+I want to send security pin when used/donor resetting password 
+ 
+so that user’s account won’t get misused 
+ 
+Acceptance criteria 
+ 
+Given I’m a system administrator 
+ 
+When the user request for resetting password 
+ 
+Then the security pin will be sent to the user’s phone and only will be valid for 5 
+minutes 
+ 
+ 
+ 
+ 
+ 
+Title: Donate funds to the organization 
+ 
+ 
+Priority: 1 
+ 
+ 
+Estimate: 
+ 
+ 
+ 
+As a donor 
+ 
+I want to donate money 
+ 
+so that I can help improve the lifestyle of the needy 
+ 
+ 
+Acceptance criteria 
+ 
+Given a donor has an account with his bank number linked to his account 
+ 
+When clicking on donate money button and entering the amount he wishes to donate 
+ 
+Then the donor will be able to donate a sum of money to the organization 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Title: Requests funds from the organization 
+ 
+ 
+Priority: 1 
+ 
+ 
+Estimate: 
+ 
+ 
+ 
+As a recipient 
+ 
+I want to request for funds 
+ 
+so that I can use the funds to continue my daily activities 
+ 
+Acceptance criteria 
+ 
+Given the recipient has an account with his bank number linked to the account  
+ 
+When the Request Help button is clicked, and the amount of funds needed is entered 
+ 
+Then the recipient will be able to requests for funds and need to wait for further 
+confirmation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Title: Transfer funds to the needy 
+ 
+ 
+Priority: 1 
+ 
+ 
+Estimate: 
+ 
+ 
+ 
+As a fund manager 
+ 
+I want to transfer funds to the recipients 
+ 
+so that I can do my duty as a fund manager and keep an account of the funds as well 
+ 
+ 
+Acceptance criteria 
+ 
+Given a recipient request for funds 
+ 
+When validation is made by the system that the recipient is eligible to receive funds 
+ 
+Then the fund manager will transfer funds to the recipient. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Title: View the total amount of funds left 
+ 
+ 
+Priority: 1 
+ 
+Estimate: 
+ 
+ 
+ 
+As a fund manager 
+ 
+I want to view the total amount of funds left in the organization 
+ 
+so that I can keep an account of the funds and manage it 
+ 
+ 
+Acceptance criteria 
+ 
+Given the manager wishes to view the total amount of funds left 
+ 
+When clicking on View Balance Funds button 
+ 
+Then the manager can view the total amount of funds left in the organization. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Title: Update funds management report 
+ 
+ 
+Priority: 1 Estimate: 
+ 
+ 
+ 
+As a fund manager 
+ 
+I want to update funds management report 
+ 
+so that I can let the data collectors know the management of funds 
+ 
+ 
+Acceptance criteria 
+ 
+Given the fund manager wishes to update the fund management report 
+ 
+When clicking on Update Report button 
+ 
+Then the manager can update the reports of the management of the funds from time to 
+time  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Title: Acceptance notification 
+ 
+ 
+ 
+Priority: 1 
+ 
+ 
+ 
+Estimate: 
+ 
+ 
+ 
+As a donor  
+ 
+I want to get notification once my recourse donation application got accepted or 
+rejected 
+ 
+so that I can make sure to plan my next move on what to do with the resources 
+ 
+ 
+Acceptance criteria 
+ 
+Given that the donor’s application for resource donation got accepted or rejected 
+ 
+When notifying the donor about the acceptance or rejection via notification 
+ 
+Then it allows them to prepare for their next step whether to prepare and pack the 
+resources or use it for other purposes. 
+ 
+ 
+ 
+ 
+ 
+ 
+Title: Monthly subscription for corporation 
+donor 
+ 
+ 
+Priority: 1 
+ 
+ 
+ 
+Estimate: 
+ 
+ 
+ 
+As a corporation donor 
+ 
+I want to have a monthly subscription option 
+ 
+so that I can donate my company’s monthly excess resources  
+ 
+ 
+Acceptance criteria 
+ 
+Given that a corporation decides to donate monthly 
+ 
+When allowing a monthly subscription option for corporation donors 
+ 
+Then they could just fill in the resource donation application the first month and avoid 
+wasting time on filling up resources donation application the next following months  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Title: Donation application decision  
+ 
+ 
+ 
+Priority: 1 
+ 
+ 
+ 
+Estimate: 
+ 
+ 
+ 
+As a donation application inspector  
+ 
+I want to receive information and pictures of the donated resources when donors 
+apply for resource donation 
+ 
+so that I can briefly inspect and decide whether to accept or reject the recourse 
+donation application and arrange appropriate equipment for the inspection when the 
+recourses arrive at the warehouse  
+ 
+ 
+Acceptance criteria 
+ 
+Given that I need to briefly inspect the recourses before accepting them  
+ 
+When I receive information and few pictures of the resource’s condition  
+ 
+Then I can briefly inspect and accept the donor’s recourse donation and prepare the 
+appropriate equipment for the inspection when the recourses arrive at the warehouse  
+ 
+ Title: Reminder for pickup 
+ 
+ 
+ 
+Priority: 1 
+ 
+ 
+ 
+Estimate: 
+ 
+ 
+ 
+As a pickup guy 
+ 
+I want to receive a reminder to remind me to pick up monthly subscribed 
+corporation’s donation 
+ 
+so that I can arrange my schedule accordingly and not to miss out the collection 
+ 
+ 
+Acceptance criteria 
+ 
+Given that there will be several monthly subscribed corporation’s donation 
+ 
+When the day of the month for donation collection arrive, I want to receive a reminder 
+on which corporation’s donation to be collected on that day 
+ 
+Then I can make sure not to forget on collecting the corporation’s donation and to 
+schedule my work properly 
+ 
+ 
+ 
+ 
+Title: Sending pickup and delivery 
+notification 
+ 
+ 
+ 
+Priority: 1 
+ 
+ 
+ 
+Estimate: 
+ 
+ 
+ 
+As a donation application inspector  
+ 
+I want to notify the pickup guy whenever a donation application is accepted and also 
+whenever the recourse at warehouse is permitted to be delivered to food stations  
+ 
+so that I can make sure that the resource donations reach its correct destination 
+ 
+ 
+Acceptance criteria 
+ 
+Given that the recourse donation needs to undergo strict inspection before getting to 
+the food station 
+ 
+When a donor’s resource donation application gets accepted 
+ 
+Then I need to notify the pickup guy so he can pickup the recourse donation and 
+bring it to the warehouse for inspection and also once the recourse donation gets 
+permitted to be delivered to the chosen food station 
+ 
+ 
+ 
+ 
+ 
+ 
+Title: Update resource donation report  
+ 
+ 
+Priority: 1 
+ 
+ 
+Estimate: 
+ 
+ 
+ 
+As a donation application inspector  
+ 
+I want to update resource donations report from time to time 
+ 
+so that I can let the data collectors know the management of resource donations 
+ 
+Acceptance criteria 
+ 
+Given that the donation application inspector wants to update resource donations 
+report 
+ 
+When everytime a process is completed, information from resource donation 
+department will be sent to data collector  
+ 
+Then the resource donations report will be updated  
+ 
+ 
+ 
+ 
+ Title: Receive pickup and delivery 
+notification 
+ 
+ 
+ 
+Priority: 1 
+ 
+ 
+ 
+Estimate: 
+ 
+ 
+ 
+As a pickup guy  
+ 
+I want to receive notifications once a donation application is accepted and also 
+whenever the resource at warehouse is permitted to be delivered to food stations  
+ 
+so that I can arrange my schedule accordingly and I can be aware, so I don’t miss 
+out any pickups or deliveries  
+ 
+Acceptance criteria 
+ 
+Given that there will be several pickups and deliveries will be permitted throughout a 
+day 
+ 
+When I receive a notification whenever a donor’s resource donation application gets 
+accepted for pick up and resource donation gets permitted to be delivered to food 
+stations  
+ 
+Then getting a notification allows me to be aware of my next task and arrange my 
+schedule accordingly 
+Title: Company recruiting filter feature 
+ 
+ 
+ 
+Priority: 1 
+ 
+ 
+ 
+Estimate: 
+ 
+  
+As a company recruiter 
+ 
+I want to be able to view the successfully accepted and deposited resume into our 
+company 
+ 
+so that I can analyse and figure out which applicant best suits the job applied and to 
+select them  
+ 
+ 
+Acceptance criteria 
+ 
+Given that the incharge person needs to precisely go through the applicants details 
+and application  
+ 
+When the successfully accepted resume is given down to them 
+ 
+Then they can easily identify the potential applicant without wasting much time and 
+energy since it has been filtered once thus giving them more room to compare and 
+select the best applicant.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Title: Company job listing 
+ 
+ 
+ 
+Priority: 1 
+ 
+ 
+Estimate: 
+ 
+ 
+ 
+As a job listing incharge person 
+ 
+I want to receive information such as company details, job listing details, proof of 
+company establishment for at least 2 years when companies offer vacancies for job 
+listing 
+ 
+so that I can thoroughly inspect and decide whether to accept or reject the job listings 
+provided by the company 
+ 
+ 
+Acceptance criteria 
+ 
+Given that I need to thoroughly inspect the company and its job listings before listing 
+them 
+ 
+When I receive all required and relevant information 
+ 
+Then briefly inspect and accept the job listing of the company if its fine and list it in the 
+application for applicants to apply. 
+ 
+Title: Update job application report  
+ 
+ 
+Priority: 1 
+ 
+ 
+Estimate: 
+ 
+ 
+ 
+As a job listing incharge person 
+ 
+I want to update job application report from time to time 
+ 
+so that I can let the data collectors know the management of job application 
+ 
+Acceptance criteria 
+ 
+Given that the job listing incharge person wants to update job application report 
+ 
+When everytime a process is completed, information from job application department 
+will be sent to data collector  
+ 
+Then the job application report will be updated  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Title: General job listings feature 
+ 
+ 
+ 
+Priority: 1 
+ 
+ 
+Estimate: 
+ 
+ 
+ 
+As a job listing incharge person 
+ 
+I want to receive information such as applicant important details, resume, identity 
+confirmation, current engagement, and educational qualification. 
+ 
+so that I can briefly check and decide whether to accept or reject the application of 
+applicants before sending it to respective companies involved in the recruitment 
+process. 
+ 
+Acceptance criteria 
+ 
+Given that I need to briefly inspect applicant’s details and their resume 
+ 
+When I receive all required and relevant information 
+ 
+Then briefly inspect and accept the application of the applicant and deposit it to the 
+resume collection incharge person for respective company recruitment. 
+ 
+ 
+ 
+ 
+Title: Total data storage 
+ 
+ 
+ 
+Priority: 1 
+ 
+ 
+ 
+Estimate: 
+ 
+ 
+ 
+As a data collector  
+ 
+I want to check all the records of donations and employment reports 
+ 
+so that I can make a complete report on donations and job applications offered to 
+the poor and needful people  
+ 
+ 
+Acceptance criteria 
+ 
+Given that all the individual data of donations and jobs applications are updated time 
+to time  
+ 
+When the reports from donations and job applications departments are received  
+ 
+Then I need to combine all the relevant data in such a way that it shows how the poor 
+people are benefited from the system and submit to progress report inspector  
+ 
+ 
+ 
+ 
+ 
+ Title: Reports for user 
+ 
+ 
+Priority: 1 
+ 
+ 
+Estimate: 
+ 
+ 
+ 
+As a data collector 
+ 
+I want to let the donor to view the progress detail of the donations and job opportunities 
+provided by the system 
+ 
+so that I can inform the donors on how the funds and resources are utilized  
+ 
+Acceptance criteria 
+ 
+Given the donors would want to get to know how well this system has benefitted to fight 
+poverty 
+ 
+When the progress reports are published in the system  
+ 
+Then the donors would feel assure knowing their donations and helps have been put to 
+good use  
+ 
+ 
+ 
+Title: Progress checking  
+ 
+ 
+ 
+Priority: 1 
+ 
+ 
+ 
+Estimate: 
+ 
+ 
+ 
+As a progress inspector  
+ 
+I want to check the progress of the donations and job applications and check who all 
+have gotten benefited from the system 
+ 
+so that I can make sure the performance on helping to fight poverty is on top notch 
+and to make changes to meet the rightful requirement to keep up a good 
+performance  
+ 
+ 
+Acceptance criteria 
+ 
+Given that all the donations and opportunities for needful people must be given 
+equally and no donations or opportunities are spent or wasted anywhere else 
+ 
+When all the reports of donations and job applications are scrutinized  
+ 
+Then I create a detailed progress report by checking and verifying the reports and 
+suggest decisions accordingly to keep up a good performance in fighting poverty 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Title: Report reviewing  
+ 
+ 
+ 
+Priority: 1 
+ 
+ 
+ 
+Estimate: 
+ 
+ 
+ 
+As a system administrator  
+ 
+I want to check the detailed progress report  
+ 
+so that I can make necessary changes to improve the performance of the system 
+ 
+ 
+Acceptance criteria 
+ 
+Given that all the reviews and suggestions are from the progress inspector after 
+checking every progress reports thoroughly  
+ 
+When I get my hands on the detailed progress report  
+ 
+Then I will read through the detailed progress report and make necessary decisions 
+to make sure the performance of the system is good  
+ 
+ 
+ 
+ 
+ 
+Title: Trouble shooting 
+ 
+ 
+Priority: 1 
+ 
+ 
+Estimate: 
+ 
+ 
+ 
+As a trouble shooter 
+ 
+I want to solve donors’ problem when using this application 
+ 
+so that user can use the application without any problems 
+ 
+Acceptance criteria 
+ 
+Given I’m a trouble shooter 
+ 
+When the application faces any problem 
+ 
+Then the donors/user will report it to the troubleshooting team for us to solve it. 
+ 
+ 
+ 
+ 
+ 
+ 
+Title: Unsuitable content 
+ 
+ 
+Priority: 2 
+ 
+Estimate: 
+ 
+ 
+ 
+As a donor 
+ 
+I want to report inappropriate/ incongruous content 
+ 
+so that the admins can review and remove the content 
+ 
+ 
+Acceptance criteria 
+ 
+Given I’m a donor when I click on the report button 
+ 
+When I see some incongruous content, the system then will submit the report to the 
+administrator 
+ 
+Then the administrator will flag it as inappropriate content. 
+ 
+ 
+Title: Filtering jobs 
+ 
+ 
+Priority: 2 
+ 
+ 
+Estimate: 
+ 
+ 
+ 
+As a job seeker 
+ 
+I want to filter jobs 
+ 
+so that I can choose the suitable job 
+ 
+Acceptance criteria 
+ 
+Given I’m a job seeker 
+ 
+When I search for the jobs, I need a filter option to filter out unnecessary jobs 
+ 
+Then I’ll be able to find the ideal job 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Title: View the amount of money donated 
+by donors 
+ 
+ 
+Priority: 2 
+ 
+ 
+Estimate: 
+ 
+ 
+ 
+As a fund manager 
+ 
+I want to view the amount of funds collected from every donor 
+ 
+so that I can keep an account of total funds collected 
+ 
+ 
+Acceptance criteria 
+ 
+Given the manager wishes to know the funds collected  
+ 
+When the View Donated Money button is clicked 
+ 
+Then the name of the donors and amount of money donated by every donor and the 
+total donation received will be displayed 
+ 
+ 
+ 
+ 
+Title: View the amount of money received 
+by the recipients 
+ 
+ 
+Priority: 2 
+ 
+Estimate: 
+ 
+ 
+ 
+As a fund manager 
+ 
+I want to view the amount of money received by each recipient 
+ 
+so that I can keep track of the funds and the balance funds left in the organization 
+ 
+ 
+Acceptance criteria 
+ 
+Given the manager wishes to view the recipients’ details and the money they have 
+received 
+ 
+When clicking on View Distributed Money button  
+ 
+Then the list of recipients, the amount of money each recipient received, and the total 
+money distributed will be displayed. 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+Title: List of donatable and non-donatable 
+resources  
+ 
+ 
+Priority: 2 
+ 
+ 
+ 
+Estimate: 
+ 
+ 
+ 
+As a donor 
+ 
+I want to view the list of donatable and non-donatable resources  
+ 
+so that I can avoid getting my donation application rejected for trying to donate the 
+wrong items 
+ 
+ 
+Acceptance criteria 
+ 
+Given that a donor wants to donate resources 
+ 
+When the donor applies to donate some resources which could be violating the 
+donations’ terms and conditions  
+ 
+Then by viewing the list of donatable and non-donatable resources, the donor can 
+make sure to apply to donate the correct resources 
+ 
+Title: Acceptance notification 
+ 
+ 
+ 
+Priority: 2 
+ 
+ 
+Estimate: 
+ 
+ 
+As a job applicant  
+ 
+I want to get notification once I submitted all details 
+ 
+so that I can make sure the application is received by the system 
+ 
+Acceptance criteria 
+ 
+Given that the applicants details got accepted into the system 
+ 
+When notifying the applicant about their submission via notification 
+ 
+Then it allows the user to be aware of their submission or resubmit if the submission 
+was unsuccessful. 
+ 
+ 
+ 
+Title: To view resource donor’s information 
+ 
+ 
+ 
+Priority: 2 
+ 
+ 
+ 
+Estimate: 
+ 
+ 
+ 
+As a pickup guy 
+ 
+I want to be able to view the donor’s address, contact information and donated 
+resources’ pictures 
+ 
+so that I can save time by avoid jotting down the information manually and will be able 
+to pick up the correct resources  
+ 
+ 
+Acceptance criteria 
+ 
+Given that I need to make pickups and deliveries from and at several different 
+locations  
+ 
+When enabling to view the list of pickup and delivery locations, donor’s contact 
+information and donated resources’ pictures 
+ 
+Then I can keep track of completed and uncompleted pickups and deliveries instead of 
+jotting down and cancelling off the tasks manually and also to make sure that I collect 
+the correct resources as in the picture  
+ 
+ 
+Title: Job resume deposit notification 
+ 
+ 
+ 
+Priority: 2 
+ 
+ 
+Estimate: 
+ 
+ 
+As a job listing incharge person 
+ 
+I want to notify the job applicant whether their application has been successfully 
+deposited to recruiting company. 
+ 
+so that I can make sure the applicant receives the details and take necessary action 
+accordingly, either prepare for calling for companies or improve their resume to get 
+through the selection process. 
+ 
+Acceptance criteria 
+ 
+Given that I need to thoroughly inspect the job applicant details and resume 
+ 
+When the applicant’s application is accepted or rejected 
+ 
+Then I need to notify the applicant so they can prepare theirself for next action that  
+should be taken  
+ 
+ 
+ 
+ 
+Title:  Application final status email 
+feature 
+ 
+ 
+ 
+Priority: 2 
+ 
+ 
+ 
+Estimate: 
+ 
+ 
+As a company recruiter 
+ 
+I want to be able to send email through app to successfully manage to secure the job 
+position as well as to the unsuccessful candidates 
+ 
+so that I can make sure all applicants are well informed about their application 
+status. 
+ 
+ 
+Acceptance criteria 
+ 
+Given that the incharge person have finally decided the applicant that has been 
+selected and rejected 
+ 
+When the email of the successful and unsuccessful application is sent to the 
+applicant 
+ 
+Then the applicants can get to know their job application status as well as further 
+action or step need to be taken. 
+ 
+Title: Sharing in social media 
+ 
+ 
+Priority: 3 
+ 
+ 
+Estimate: 
+ 
+ 
+ 
+As a donor 
+ 
+I want to connect this app to my social media 
+ 
+so that I can share it on social media 
+ 
+ 
+Acceptance criteria 
+ 
+Given that I’m a donor 
+ 
+When I click on the share button, the system should trigger a new window which allows 
+me to share in my social media  
+ 
+Then other people also can see interact with my shared post. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Title: Resources donating feature 
+ 
+ 
+ 
+Priority: 3 
+ 
+ 
+ 
+Estimate: 
+ 
+ 
+ 
+As a donor 
+ 
+I want to be able to see the donate resources icon in the front page 
+ 
+so that I can get done with the donation application quickly and avoid getting lost 
+navigating 
+ 
+ 
+Acceptance criteria 
+ 
+Given that a donor wants to donate resources  
+ 
+When the donor is looking for the donate recourses feature and being able to reach it 
+as soon as the donor enters the system 
+ 
+Then the donating process can be done quickly and swiftly without prolonging the 
+process 
+ 
+ 
+ Title: Food station selection 
+ 
+ 
+ 
+Priority: 3 
+ 
+ 
+ 
+Estimate: 
+ 
+ 
+ 
+As an individual donor 
+ 
+I want to be able to view all the food station’s location and picture  
+ 
+so that I can choose the food station I want to donate my resources to 
+ 
+ 
+Acceptance criteria 
+ 
+Given that the individual donor wants to donate to their preferred food station 
+ 
+When allowing the individual donor to view and select one of the food stations to 
+donate to 
+ 
+Then they would feel assured knowing their donated resources being sent to their 
+preferred food station  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Title: Job application feature 
+ 
+ 
+ 
+Priority: 3 
+ 
+ 
+Estimate: 
+ 
+ 
+ 
+As a job applicant 
+ 
+I want to see detailed information of each job listing and should be able to choose as 
+much as I want without limitations 
+ 
+so that I can get through any of the job applied in order to secure a placement in any 
+company that I applied. 
+ 
+Acceptance criteria 
+ 
+Given that the job listings are displayed with multiple/ more than 1 submission enabled 
+ 
+When the applicant tries to apply for more than 1 job that has been listed 
+ 
+Then applicant should be able to deposit their resume and required details more than 
+once. 
+ 
+ Title: Saved search feature 
+ 
+ 
+Priority: 3 
+ 
+ 
+ 
+Estimate: 
+ 
+ 
+ 
+As a job applicant 
+ 
+I want to be able to view the saved search history of the jobs that I prefer 
+ 
+so that I can apply it later when all required details are ready and able to be 
+submitted.  
+ 
+ 
+Acceptance criteria 
+ 
+Given that I need to apply for several jobs in order to make sure there is chance for 
+employment 
+ 
+When enabling to view the list of saved searches of jobs interested 
+ 
+Then I can fill the information accordingly and deposit my resume when it I ready and 
+available for application.  
